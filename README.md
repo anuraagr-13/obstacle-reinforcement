@@ -34,4 +34,4 @@ Finally,
 python plotting.py 
 
 
-Inspired from: https://github.com/harvitronix/reinforcement-learning-car
+Inspired from: https://github.com/harvitronix/rl-rc-car
